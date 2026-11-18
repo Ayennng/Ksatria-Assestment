@@ -5,7 +5,7 @@
  */
 export const CONFIG = Object.freeze({
   /** OAuth 2.0 Web client ID from Google Cloud Console → APIs & Services → Credentials. */
-  googleClientId: 'YOUR_CLIENT_ID.apps.googleusercontent.com',
+  googleClientId: '783663880516-s8jg3gi85nr32leqr966m4fsqu5kcpsh.apps.googleusercontent.com',
 
   sheet: Object.freeze({
     /** The ID in https://docs.google.com/spreadsheets/d/<ID>/edit */

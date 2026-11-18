@@ -74,6 +74,15 @@ body {
   color: #c62828;
 }
 
+.login__footer {
+  margin: 28px 0 0;
+  font-size: 12px;
+}
+
+.login__footer a {
+  color: #888;
+}
+
 /* ---------- App shell ---------- */
 
 .app {
